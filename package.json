@@ -1,6 +1,6 @@
 {
   "name": "@stack-fintech/swagger-express-mw",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Swagger loader and middleware for express",
   "keywords": [
     "swagger",

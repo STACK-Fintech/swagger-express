@@ -1,4 +1,10 @@
-2020-01-31, Version 0.1.3
+2020-01-31, Version 0.1.4
+=========================
+
+ * chore: use swagger-node-runner@^0.5.19 (Kevin Delisle)
+
+
+2020-01-30, Version 0.1.3
 =========================
 
  * chore: update to latest runner (Kevin Delisle)
