@@ -16,7 +16,7 @@
     "url": "https://github.com/apigee-127/swagger-express.git"
   },
   "dependencies": {
-    "@stack-fintech/swagger-node-runner": "^0.5.14"
+    "@stack-fintech/swagger-node-runner": "^0.5.17"
   },
   "devDependencies": {
     "lodash": "^3.9.3",
